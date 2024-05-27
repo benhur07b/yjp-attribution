@@ -1,6 +1,6 @@
 # QGIS Python scripts used in the automation
 
-This repository contains Python scripts for use in QGIS. Follow the instructions below to add and use these scripts in QGIS.
+This directory contains Python scripts for use in QGIS. Follow the instructions below to add and use these scripts in QGIS.
 
 ## Adding Python scripts to QGIS using the GUI
 

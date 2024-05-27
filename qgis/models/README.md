@@ -1,6 +1,6 @@
 # QGIS Models used in the automation
 
-This repository contains QGIS models that will be used in the automation. Follow the instructions below to add and use these models in QGIS.
+This directory contains QGIS models that will be used in the automation. Follow the instructions below to add and use these models in QGIS.
 
 ## Adding models to QGIS using the GUI
 
